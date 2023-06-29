@@ -1,2 +1,2 @@
 
-img src="./assets/git 1.jpg"
+<img src="./assets/git 1.jpg">
